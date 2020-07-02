@@ -1,0 +1,30 @@
+.main-nav {
+    background-color: #0A213C;
+    min-height: 110px;
+}
+
+.navbar-brand {
+    margin-left: 12%;
+    margin-right: 8% !important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white !important;
+}
+
+.primary-button {
+    border-radius: 15px !important;
+    max-width: 160px;
+    background: #00E78D;
+    background: -moz-linear-gradient(left, #00E78D 0%, #00f774 50%, #50FF56 100%);
+    background: -webkit-linear-gradient(left, #00E78D 0%, #00f774 50%, #50FF56 100%);
+    background: linear-gradient(to right, #00E78D 0%, #00f774 50%, #50FF56 100%);
+}
+
+.line-nav {
+    height: 1px;
+    background: #00E78D;
+    background: -moz-linear-gradient(left, #00E78D 0%, #00f774 50%, #50FF56 100%);
+    background: -webkit-linear-gradient(left, #00E78D 0%, #00f774 50%, #50FF56 100%);
+    background: linear-gradient(to right, #00E78D 0%, #00f774 50%, #50FF56 100%);
+}
