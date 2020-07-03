@@ -1,6 +1,6 @@
 .red-title {
-    margin-top: 10ch;
-    background-color: #C30000;
+    margin-top: 7ch;
+    background-color: #bd1622ff;
     color: white;
     border-radius: 30px;
     text-align: center; 
@@ -9,18 +9,32 @@
     max-width: 500px; 
 }
 
+.red-title h3 {
+    margin: 0;
+}
+
 .big-title {
     text-align: center;
-    color: #0A213C;
+    color: #04273bff;
     font-size: 63px;
     font-weight: bold;
-    padding-top: 10px;
-    padding-bottom: 10px;
 }
 
 .second-title {
     text-align: center;
-    color: #0A213C;
-    padding-bottom: 20px;
-    padding-top: 10px;
+    color: #04273bff;
+}
+
+.spaced-row {
+    margin-top: 2ch;
+    margin-bottom: 2ch;
+}
+
+.vender-background {
+    background-image: url("../../images/venderBackground.png");
+    width: 100%;
+}
+
+.video-section {
+    margin-left: 0 !important;
 }

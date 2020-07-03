@@ -1,3 +1,5 @@
+/* Caso necessário alterar tamanho do shadow-box utilizar um gerador como este https://www.cssmatic.com/box-shadow*/
+
 .youtube {
     border-radius: 20px;
     -webkit-box-shadow: 0px 30px 40px 20px rgba(196,182,196,1);

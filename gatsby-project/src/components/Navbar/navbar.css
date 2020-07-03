@@ -1,16 +1,13 @@
 .main-nav {
-    background-color: #0A213C;
+    background-color: #04273bff;
     min-height: 110px;
-}
-
-.navbar-brand {
-    margin-left: 12%;
-    margin-right: 8% !important;
 }
 
 .navbar-dark .navbar-nav .nav-link {
     color: white !important;
 }
+
+/* Caso necessário alterar algo nos gradients utilizar um gerador como este https://cssgradient.io/*/
 
 .primary-button {
     border-radius: 15px !important;
