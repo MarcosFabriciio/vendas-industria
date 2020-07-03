@@ -1,0 +1,26 @@
+.red-title {
+    margin-top: 10ch;
+    background-color: #C30000;
+    color: white;
+    border-radius: 30px;
+    text-align: center; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+    max-width: 500px; 
+}
+
+.big-title {
+    text-align: center;
+    color: #0A213C;
+    font-size: 63px;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.second-title {
+    text-align: center;
+    color: #0A213C;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
