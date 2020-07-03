@@ -5,6 +5,7 @@ import './video.css';
 class Video extends Component {
     render() {
         const opts = {
+          height: '500',
           width: '100%',
           playerVars: {
             // https://developers.google.com/youtube/player_parameters

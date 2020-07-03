@@ -32,7 +32,7 @@ const Example = () => {
                 <Nav.Link href="/component/">Metodoliga</Nav.Link>
               </li>
               <li className="nav-item">
-                <Button className="primary-button" variant="success">
+                <Button className="navbar-button" variant="success">
                   Sim, eu quero!
                 </Button>
               </li>

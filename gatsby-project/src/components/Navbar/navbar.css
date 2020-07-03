@@ -9,8 +9,9 @@
 
 /* Caso necessário alterar algo nos gradients utilizar um gerador como este https://cssgradient.io/*/
 
-.primary-button {
-    border-radius: 15px !important;
+.navbar-button {
+    font-weight: bold !important;
+    border-radius: 25px !important;
     max-width: 160px;
     background: #00E78D;
     background: -moz-linear-gradient(left, #00E78D 0%, #00f774 50%, #50FF56 100%);

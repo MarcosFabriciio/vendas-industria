@@ -13,6 +13,12 @@
     margin: 0;
 }
 
+.pos-vid-title  h4 {
+    margin-top: 3ch;
+    color: #bd1622ff;
+    font-weight: bold;
+}
+
 .big-title {
     text-align: center;
     color: #04273bff;
@@ -31,10 +37,8 @@
 }
 
 .vender-background {
+    background-repeat: repeat;
     background-image: url("../../images/venderBackground.png");
-    width: 100%;
-}
-
-.video-section {
-    margin-left: 0 !important;
+    width: 102%;
+    background-size: initial;
 }

@@ -44,6 +44,17 @@ function VideoSection() {
             <Col>
             </Col>
         </Row>
+        <Row className='spaced-row'>
+            <Col></Col>
+            <Col className="justify-content-md-center" xs={7}>
+                <div className="pos-vid-title">
+                    <h4>
+                        Atenção: empreendedor, empresário, profissionais de vendas...
+                    </h4>
+                </div>
+            </Col>
+            <Col></Col>
+        </Row>
       </Container>
   );
 }
